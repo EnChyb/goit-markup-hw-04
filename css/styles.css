@@ -301,6 +301,7 @@ p {
     display: flex;
     justify-content: center;
     gap: 24px;
+    margin-top: 8px;
 
 }
 .li-social-media{
